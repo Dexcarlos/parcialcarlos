@@ -15,18 +15,18 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
 					<li>
-                        <a href="#">Calzado</a>
+                        <a href="calzado.php">Calzado</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tacones<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="#">Narrow</a></li>
-							<li><a href="#">Clasic</a></li>
-							<li><a href="#">Wide</a></li>
+							<li><a href="narrow.php">Narrow</a></li>
+							<li><a href="classic.php">Clasic</a></li>
+							<li><a href="wide.php">Wide</a></li>
 						</ul>
 					</li>
 					<li>
-                        <a href="#">Contactenos</a>
+                        <a href="contac.php">Contactenos</a>
                     </li>
                     <form class="navbar-form navbar-left" role="search">
 						<div class="form-group">
